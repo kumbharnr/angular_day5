@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "id": 101,
+      "firstName": "Navnath",
+      "lastName": "Kumbhar",
+      "email": "navnath.kumbhar@mtx.com",
+      "location": "Pune"
+    },
+    {
+      "id": 102,
+      "firstName": "Raj",
+      "lastName": "gholap",
+      "email": "rajgholap@gmail.com",
+      "location": "Bengalore"
+    },
+    {
+      "id": 103,
+      "firstName": "Sanket",
+      "lastName": "Kale",
+      "email": "sanketkale@gmail.com",
+      "location": "Bengalore"
+    },
+    {
+      "id": 104,
+      "firstName": "Raj",
+      "lastName": "gholap",
+      "email": "rajgholap@gmail.com",
+      "location": "Bengalore"
+    },
+    {
+      "id": 105,
+      "firstName": "Varun",
+      "lastName": "Nadipudi",
+      "email": "varun.nadipudi@mtx.com",
+      "location": "Hydrabad"
+    },
+    {
+      "id": 108,
+      "firstName": "NRK",
+      "lastName": "K",
+      "email": "nrk@gmail.com",
+      "location": "pune"
+    }
+  ],
+  "insurance": [
+    {
+      "Pno": 101111,
+      "PHName": "Navnath",
+      "PA": 1000000,
+      "AFEMI": 10000,
+      "NName": "Raj"
+    },
+    {
+      "Pno": 101112,
+      "PHName": "ABCD",
+      "PA": 1000000,
+      "AFEMI": 10000,
+      "NName": "Raj"
+    },
+    {
+      "Pno": 101113,
+      "PHName": "Abcd",
+      "PA": 1000000,
+      "AFEMI": 10000,
+      "NName": "varun"
+    },
+    {
+      "Pno": 101114,
+      "PHName": "Raj",
+      "PA": 1000000,
+      "AFEMI": 10000,
+      "NName": "Navnath"
+    }
+  ]
+}

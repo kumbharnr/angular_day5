@@ -1,1 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
+h1{
+    background: rgb(30, 210, 201);
+    border: 5px solid black;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.training{
+    /* bottom: 4px solid black; */
+    /* border: 5px solid black; */
+    border-bottom: 5px solid black;
+    margin: 10px;
+}
+.back{
+    background: rgb(203, 154, 226);
+    font-weight: 500;
+}
